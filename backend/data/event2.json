@@ -1,0 +1,71 @@
+{
+  "id": 2,
+  "title": "The BluePrint Series: A Fireside Chat with Rich Tu",
+  "date": "MAY 14, 2025",
+  "location": "SOHO HOUSE, NEW YORK",
+  "heroImage": "/images/hero-img.png",
+  "introduction": {
+    "heading": "INTRODUCTION OF THIS EVENT",
+    "content": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA World Cup poster, and a creative powerhouse known for his work with Nike, MTV, and culture-shaping campaigns across the globe."
+  },
+  "agenda": [
+    {
+      "time": "10:30 AM - 11:00 AM",
+      "title": "WELCOME AND OPENING",
+      "description": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA",
+      "location": "GROUND FLOOR"
+    },
+    {
+      "time": "10:30 AM - 11:00 AM",
+      "title": "WELCOME AND OPENING",
+      "description": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA",
+      "location": "GROUND FLOOR"
+    },
+    {
+      "time": "10:30 AM - 11:00 AM",
+      "title": "WELCOME AND OPENING",
+      "description": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA",
+      "location": "GROUND FLOOR"
+    },
+    {
+      "time": "10:30 AM - 11:00 AM",
+      "title": "WELCOME AND OPENING",
+      "description": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA",
+      "location": "GROUND FLOOR"
+    }
+  ],
+  "speakers": [
+    {
+      "id": 1,
+      "name": "Rich Tu",
+      "title": "Artist",
+      "image": "/images/rich-tu.png"
+    },
+    {
+      "id": 2,
+      "name": "Love Malone",  
+      "title": "FOUNDER CEO",
+      "image": "/images/love-malone.png"
+    },
+    {
+      "id": 3,
+      "name": "Milan Chaney",
+      "title": "MC",
+      "image": "/images/milan-chaney.png"
+    }
+  ],
+  "eventDetails": {
+    "content": "Presented as part of The Gradient's Blueprint Series, this fireside chat-moderated by Love Malone, CEO of The Gradient—will dive into Rich's creative journey, his thoughts on where the industry is headed, and how design continues to shape identity, storytelling, and the future of culture."
+  },
+  "faq": [
+    {
+      "question": "What is the schedule for the event?",
+      "answer": "you can view the full event schedule, including keynote speakers, workshops, and panel discussions, on the event page under the \"agenda\" section."
+    },
+    {
+      "question": "What is the schedule for the event?",
+      "answer": "you can view the full event schedule, including keynote speakers, workshops, and panel discussions, on the event page under the \"agenda\" section."
+    }
+  ]
+}
+
