@@ -1,6 +1,8 @@
-# Event Landing Page - Technical Assessment
+# Gradient Group Technical Assessment
 
-A single-page application built with Next.js frontend and Express.js backend API for displaying event information.
+**Repository:** https://github.com/JamalDolah/Gradient-Group-Tech-Assessment
+
+Event landing page with Express.js backend and Next.js frontend.
 
 ## Project Structure
 
